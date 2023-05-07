@@ -1,0 +1,15 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-image: url("./Conte.jpg");
+    background-position: 50%;
+}
+.audio audio{
+    position: center;
+    height: 50px;
+}
+
+
